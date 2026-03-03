@@ -4,12 +4,14 @@ Jako dalším úkol jsem vytvořila primární a sekundární tabulky, kde budou
 
 Celý kód je obsažen v souboru "primary_final and secondary_final.sql"
 
-1. Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají?
+**1. Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají?**
 Ve většině sledovaných odvětví mzdy obecně rostou po většinu analyzovaného období. V několika odvětvích se však vyskytují jednotlivé roky, kdy mzdy klesaly. Tyto poklesy jsou spíše krátkodobé a nevytvářejí trvalý sestupný trend. Nejčastěji se poklesy mezd objevují v letech 2010–2013. Některá odvětví vykazují víceleté období stabilního růstu mezd bez významnějších poklesů (např. Doprava a skladování, Ostatní činnosti, Zdravotní a sociální péče, Zpracovatelský průmysl).
 
-2. Kolik je možné si koupit litrů mléka a kilogramů chleba za první a poslední srovnatelné období v dostupných datech cen a mezd?
+**2. Kolik je možné si koupit litrů mléka a kilogramů chleba za první a poslední srovnatelné období v dostupných datech cen a mezd?**
 V roce 2006 bylo možné si za průměrnou měsíční mzdu koupit 1 287 kg chleba. V roce 2018 to bylo 1 342 kg.
 V roce 2006 bylo možné si za průměrnou měsíční mzdu koupit 1 437 litrů mléka. V roce 2018 to bylo 1 642 litrů.
 
-3. Která kategorie potravin zdražuje nejpomaleji (je u ní nejnižší percentuální meziroční nárůst)?
+**3. Která kategorie potravin zdražuje nejpomaleji (je u ní nejnižší percentuální meziroční nárůst)?**
+Nejpomalejší růst zaznamenaly potraviny cukr a rajská jablka, jejichž ceny meziročně dokonce mírně klesaly. 1% růst nepřekročily dále banány a vepřová pečeně s kostí.
 
+**
